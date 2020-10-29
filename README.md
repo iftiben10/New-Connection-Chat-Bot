@@ -2,3 +2,4 @@
 ## This is basically the Telegram Chat Bot.
 ## This conversational chat bot help depressed peoples.
 ## [Telegram Bot Link](https://t.me/New_Connection_Bot)
+## License :  GNU General Public License v3.0
